@@ -29,7 +29,7 @@ You agree to not create further accounts if we suspend access to any account in 
 
 **(ii)** You agree to receive communications from us electronically, such as email, or messages on a chat or social platform. By using the Service or providing information to us, you agree that we may communicate with you electronically regarding security, privacy, and administrative issues relating to your use of the Service, and that all agreements, notices, disclosures, and other communications that the Company provides to you electronically satisfy any legal requirements that such communications be in writing.
 
-# INTELLECTUAL PROPERTY
+### INTELLECTUAL PROPERTY
 All rights, title and interest in and to all materials that are part of the Service (including, but not limited to, designs, text, graphics, pictures, video, information, applications, software, music, sound and other files, and their selection and arrangement), collectively referred to as the "Materials" are, as between the Company and you, owned by the Company and/or its third party licensors.
 
 **(i)** You agree that you shall not modify, copy, distribute, frame, reproduce, republish, download, scrape, display, post, transmit, or sell in any form or by any means, in whole or in part, or otherwise exploit the Materials without our express prior written permission.
